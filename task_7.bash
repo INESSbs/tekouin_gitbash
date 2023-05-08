@@ -1,4 +1,2 @@
-touch hello[D[D[D[D[Dtekouin_gitbash/hello
-chmod 753 hello
-touch hello 
+touch hello
 chmod 753 hello
